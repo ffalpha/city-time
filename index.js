@@ -5,7 +5,7 @@ const moment2=require('moment')
 function cityTime(city,options) {
     var object=false,format='';
 if(options){
-    object = options.object ;
+    object = options.object;
     format = options.format ;
 }
 
