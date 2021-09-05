@@ -22,6 +22,9 @@
   "bugs": {
     "url": "https://github.com/ffalpha/city-time/issues"
   },
+  "publishConfig": {
+     "registry": "https://npm.pkg.github.com/@ffalpha"
+  },
   "homepage": "https://github.com/ffalpha/city-time#readme",
   "dependencies": {
     "moment": "^2.29.1",
