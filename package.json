@@ -1,6 +1,6 @@
 {
   "name": "city-time",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get the time for given city",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ffalpha/city-time.git"
   },
+  
   "keywords": [
     "city",
     "time",
