@@ -1,10 +1,10 @@
 
-name: Npm City-time action
+name: "Npm City-time action"
 
 on:
-  push:
-    branches: 
-      - master
+    push:
+      branches: 
+         - main
 jobs:
   build:
     runs-on: ubuntu-latest
