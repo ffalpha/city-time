@@ -1,5 +1,5 @@
 {
-  "name": "city-time",
+  "name": "@ffalpha/city-time",
   "version": "0.0.2",
   "description": "Get the time for given city",
   "main": "index.js",
