@@ -1,0 +1,26 @@
+{
+  "name": "city-time",
+  "version": "0.0.1",
+  "description": "Get the time for given city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffalpha/city-time.git"
+  },
+  "keywords": [
+    "city",
+    "time",
+    "npm",
+    "time",
+    "moment"
+  ],
+  "author": "Kalana Mihiranga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ffalpha/city-time/issues"
+  },
+  "homepage": "https://github.com/ffalpha/city-time#readme"
+}
