@@ -1,6 +1,6 @@
 {
-  "name": "@ffalpha/city-time",
-  "version": "0.0.2",
+  "name": "city-time",
+  "version": "0.0.3",
   "description": "Get the time for given city",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/ffalpha/city-time.git"
   },
-  
   "keywords": [
     "city",
     "time",
@@ -23,10 +22,8 @@
   "bugs": {
     "url": "https://github.com/ffalpha/city-time/issues"
   },
-
   "homepage": "https://github.com/ffalpha/city-time#readme",
   "dependencies": {
-    "moment": "^2.29.1",
     "moment-timezone": "^0.5.33"
   }
 }
